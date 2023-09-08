@@ -22,7 +22,7 @@ function App() {
     equipo: "Programación",
     foto: "https://github.com/AlexisPiedragil.png",
     nombre: "Alexis Piedragil",
-    puesto: "Desarrolladora de software e instructora",
+    puesto: "Desarrollador web y Estudiante",
     fav: true
   },
   {
